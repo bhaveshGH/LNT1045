@@ -1,3 +1,4 @@
 This is a text file.
 Second line
 THird line, We are learning Git.
+Tomorrow is Wednesday.
