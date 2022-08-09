@@ -6,3 +6,4 @@ Tomorrow is Wednesday.
 =======
 We have communication skills training tomorroww.
 >>>>>>> br1
+Sunday is a holiday.
