@@ -1,4 +1,8 @@
 This is a text file.
 Second line
 THird line, We are learning Git.
+<<<<<<< HEAD
 Tomorrow is Wednesday.
+=======
+We have communication skills training tomorroww.
+>>>>>>> br1
